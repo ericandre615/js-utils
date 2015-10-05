@@ -20,5 +20,6 @@ available types to check are
 'array'
 'object'
 'buffer' (Uint8Array)
+'date'
 ```
 returns `true` if it is of type and `false` if not
